@@ -14,6 +14,7 @@
             </description>
             <pubDate>Sun, 24 Nov 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.qubique.gramblin" sparkle:version="1.0.2" sparkle:os="android" />
+            <enclosure url="URL" sparkle:version="1.0.2" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
