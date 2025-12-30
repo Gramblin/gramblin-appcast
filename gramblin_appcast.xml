@@ -6,10 +6,10 @@
             <title>Version 1.0.4</title>
             <description>
 This update contains
-    •	The UI learned some new dance moves (animations improved).
-	•	Gramblin now speaks English, Turkish, and Indonesian.
-	•	Waiting rooms are no longer scared when you switch apps — they’ll patiently wait for your opponent (up to 60 seconds).
-	•	A bunch of other things got fixed, tuned, and mildly scolded.
+    • Polished UI and smoother animations.
+	• Play Gramblin in English, Turkish, or Indonesian.
+	• Rooms stay alive even if you briefly leave the app (up to 60 seconds).
+	• Performance improvements and general enhancements.
             </description>
             <pubDate>Sun, 24 Nov 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.qubique.gramblin" sparkle:version="1.0.2" sparkle:os="android" />
