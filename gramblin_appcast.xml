@@ -3,14 +3,13 @@
     <channel>
         <title>Gramblin - Appcast</title>
         <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.4</title>
             <description>
 This update contains
-    - Player's tutorial/walkthrough.
-    - Player's statistic (best word, longest word, current streak, longest streak, total wins, total losses and total ties).
-    - Matchmaking.
-    - React to submissions.
-    - Other bugfixes and improvements.
+    •	The UI learned some new dance moves (animations improved).
+	•	Gramblin now speaks English, Turkish, and Indonesian.
+	•	Waiting rooms are no longer scared when you switch apps — they’ll patiently wait for your opponent (up to 60 seconds).
+	•	A bunch of other things got fixed, tuned, and mildly scolded.
             </description>
             <pubDate>Sun, 24 Nov 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.qubique.gramblin" sparkle:version="1.0.2" sparkle:os="android" />
